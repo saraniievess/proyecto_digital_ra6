@@ -59,11 +59,29 @@
 	- Notificaciones al cliente (correo/app)
 
 ## 9) Valor
--
+- Beneficios de digitalizar:
+	- Mayor alcance de clientes (online)
+	- Reducción de errores manuales
+	- Mejora en la toma de decisiones
+- Riesgos de no hacerlo:
+	- Pérdida de competitividad
+	- Menor eficiencia operativa
+	- Pérdida de clientes frente a empresas digitales
 
 ## 10) UML
-- Casos de uso:
+- Casos de uso: Cliente, Administrador
+	- Cliente: registrarse, iniciar sesión, comprar producto, ver pedidos
+	- Administrador: gestionar productos, gestionar pedidos, ver informes
 - Clases:
+	- Clases principales:
+		- Cliente (id, nombre, email)
+		- Producto (id, nombre, precio, stock)
+		- Pedido (id, fecha, estado)
+		- DetallePedido (cantidad, precio)
+	- Relaciones:
+		- Un cliente realiza varios pedidos
+		- Un pedido contiene varios productos
+		- Producto se relaciona con DetallePedido
 
 ## 11) Conclusión
--
+- La transformación digital de FreshMarket permite mejorar la eficiencia, aumentar ventas y ofrecer una mejor experiencia al cliente. Aunque requiere inversión y formación, es clave para competir en un mercado cada vez más digitalizado.
