@@ -32,13 +32,31 @@
 	- Predicción de demanda
 
 ## 6) Seguridad
--
+- Riesgos:
+	- Robo de datos personales
+	- Ataques informáticos (phishing, malware)
+- Medidas de protección:
+	- Cifrado de datos y uso de HTTPS
+	- Autenticación segura (contraseñas fuertes, 2FA)
 
 ## 7) RRHH
--
+- Nuevas competencias digitales:
+	- Uso de software de gestión
+	- Análisis de datos básicos
+	- Atención al cliente digital
+- Cambios organizativos:
+	- Creación de un equipo IT
+	- Formación del personal actual
+	- Nuevos roles (gestor de e-commerce, analista de datos)
 
 ## 8) Integración
--
+- Sistemas conectados:
+	- Web + base de datos + sistema de pagos
+	- Inventario conectado con ventas
+- Procesos automatizados:
+	- Actualización automática de stock
+	- Generación de facturas
+	- Notificaciones al cliente (correo/app)
 
 ## 9) Valor
 -
